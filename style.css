@@ -161,6 +161,9 @@ p {
 @media screen and (min-width: 480px) {
   body {
   background: url('./images/pattern-background-desktop.svg');
+  background-color: var(--Pale-blue);
+  background-repeat: no-repeat;
+  background-size: contain;
   }
 
 }
